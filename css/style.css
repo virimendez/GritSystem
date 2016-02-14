@@ -1,5 +1,5 @@
 header{
-	padding: 15px 0;
+	padding: 10px 0;
 	margin: 0;
 	color: #fff;
 	border-bottom: solid #333 1px;
@@ -37,3 +37,116 @@ nav a{
 nav a:hover{
 	color: #fff;
 }
+p{
+	padding: 3px;
+}
+.icono{
+	width: 15px;
+	height: 15px;
+	margin-top: 0px;
+}
+.uno{
+	width: 200px;
+	height: 200px;
+}
+.ini{
+	text-align: center;
+	color: blue;
+}
+.unoo{
+	background: #d1d1e0;
+}
+
+.dos{
+	width: 100px;
+	height: 100px;
+    margin-top: 25px;
+    border: 1px solid black;
+    padding: 3px;
+   
+  
+}
+
+#dos{
+	font-size: 13px;
+	margin-top: 20px;
+}
+.lado{
+	font-size: 10px;
+	text-align:right;
+}
+.tres{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+    padding: 3px;
+    margin-top: 20px;
+
+}
+.abajo{
+	font-size: 12px;
+	color: blue;
+	left: 10px;
+}
+.cuatro{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+    padding: 3px;
+    margin-top: 20px;
+}
+.cinco{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+    padding: 3px;
+    margin-top: 20px;
+}
+.seis{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+    padding: 3px;
+    margin-top: 20px;
+}
+.siete{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+    padding: 3px;
+    margin-top: 20px;
+}
+.pie{
+	list-style-type: none;
+	font-size: 15px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+li{
+	display: inline;
+    padding-left: 8px;
+    padding-bottom: 4px;
+    padding-right: 10px;
+}
+.princ{
+	font-size: 20px;
+	font-weight: 30px;	
+}
+.piee{
+	margin-top: 20px;
+}
+.chiqui{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.final{
+	background: #d1d1e0;
+	margin: 1px solid black;
+}
+a{
+	text-decoration: none;
+}
+
+
+
+
